@@ -1,0 +1,140 @@
+[
+  {
+    "id": "DECOR-001",
+    "name": "Aromatic Soy Candle",
+    "category": "Home Decor",
+    "description": "Hand-poured soy wax candle with a calming lavender and vanilla scent.",
+    "rating": 4.6,
+    "image": "/Aromatic_Soy_Candle.jpg",
+    "link": "https://www.amazon.in/UMAI-Long-Lasting-Fragrance-Essential-Christmas/dp/B0CQCTQQSH?th=1"
+  },
+  {
+    "id": "DECOR-002",
+    "name": "Minimalist Digital Wall Clock",
+    "category": "Home Decor",
+    "description": "A sleek and silent digital clock with an easy-to-read LED display.",
+    "rating": 4.5,
+    "image": "/Minimalist_Digital_Wall_Clock.jpg",
+    "link": "https://www.etsy.com/in-en/listing/1706704913/japandi-simplistic-wall-clock-minimalist"
+  },
+  {
+    "id": "DECOR-003",
+    "name": "Floating Oak Wood Shelves",
+    "category": "Home Decor",
+    "description": "Set of three rustic oak shelves to display your favorite items.",
+    "rating": 4.6,
+    "image": "/Floating_Oak_Wood_Shelves.webp",
+    "link": "https://www.domli.co.uk/products/solid-oak-floating-shelf-40mm-thick"
+  },
+
+  {
+    "id": "DECOR-004",
+    "name": "LED Vanity Mirror Lights",
+    "category": "Home Decor",
+    "description": "Hollywood-style LED light kit for your makeup and vanity mirrors.",
+    "rating": 4.4,
+    "image": "/LED_Vanity_Mirror_Lights.webp",
+    "link": "https://www.glazonoid.com/products/ovid?variant=44021303607604"
+  },
+  {
+    "id": "FIT-001",
+    "name": "Adjustable Dumbbell Set",
+    "category": "Health & Fitness",
+    "description": "Space-saving adjustable dumbbells, perfect for home workouts.",
+    "rating": 4.1,
+    "image": "/Adjustable_Dumbbell_Set.jpg",
+    "link": "https://www.amazon.in/Lifelong-Adjustable-Dumbbell-1-5-Kettlebell-Easy-Adjustments-Fitness/dp/B0CW1MSK52"
+  },
+  {
+    "id": "FIT-002",
+    "name": "Resistance Bands Set",
+    "category": "Health & Fitness",
+    "description": "A set of three non-slip fabric bands for strength and toning exercises.",
+    "rating": 4.7,
+    "image": "/Resistance_Bands _Set.jpg",
+    "link": "https://www.amazon.in/N7-Fitness-Pull-Resistance-Bands/dp/B0BSR3GR8W"
+  },
+  {
+    "id": "FIT-003",
+    "name": "Soothing Foot Pads",
+    "category": "Health & Fitness",
+    "description": "Tracks weight, BMI, body fat, and more, syncing to your smartphone.",
+    "rating": 4.6,
+    "image": "/Soothing_Foot_Pads.jpg",
+    "link": "https://andbalanced.com/pages/detox-foot-pads-dg#aff=pradeep_ga"
+  },
+  {
+    "id": "FIT-004",
+    "name": "High-Density Foam Roller",
+    "category": "Health & Fitness",
+    "description": "Essential for muscle recovery, deep tissue massage, and relieving soreness.",
+    "rating": 4.3,
+    "image": "/High_Density_Foam_Roller.jpg",
+    "link": "https://www.amazon.in/Boldfit-Massage-Exercise-Recovery-Stretching/dp/B0CKYY1M62?th=1"
+  },
+  {
+    "id": "FIT-005",
+    "name": "Eco-Friendly Performance Yoga Mat",
+    "category": "Health & Fitness",
+    "description": "Made from sustainable materials, this mat provides superior grip.",
+    "rating": 4.5,
+    "image": "/Eco_Friendly_Yoga_Mat.jpg",
+    "link": "https://www.amazon.com/Heathyoga-Friendly-Alignment-Certified-Material/dp/B0CYLQ7M1Y/?th=1xx"
+  },
+  {
+    "id": "FIT-006",
+    "name": "Double Insulated Stainless Steel Water Bottle",
+    "category": "Health & Fitness",
+    "description": "Keeps your drinks cold for 24 hours or hot for 12 hours.",
+    "rating": 4.9,
+    "image": "/Double_Insulated_Stainless_Steel_Water_Bottle.jpg",
+    "link": "https://nutcaseshop.com/products/double-insulated-water-bottle-india-003?variant=44475468873956"
+  },
+
+  {
+    "id": "NR-001",
+    "name": "Ultrasonic Essential Oil Diffuser",
+    "category": "Natural Remedies",
+    "description": "A quiet, stylish diffuser to fill your space with calming aromas.",
+    "rating": 4.2,
+    "image": "/Ultrasonic_Essential_Oil_Diffuser.jpg",
+    "link": "https://www.amazon.in/Ultrasoni-Humidifier-Essential-Diffuser-Ultrasonic/dp/B0DZHM42FB"
+  },
+  {
+    "id": "NR-002",
+    "name": "Organic Lavender Essential Oil",
+    "category": "Natural Remedies",
+    "description": "100% pure, therapeutic grade lavender oil for relaxation and sleep.",
+    "rating": 3.9,
+    "image": "/Organic_Lavender_Essential_Oil.jpg",
+    "link": "https://www.amazon.in/Aravi-Organic-Lavender-Essential-Oil/dp/B09T9B875Z"
+  },
+  {
+    "id": "NR-003",
+    "name": "Calming Herbal Tea Blend E-Book",
+    "category": "Natural Remedies",
+    "description": "A soothing blend of chamomile and lavender to help you unwind.",
+    "rating": 4.8,
+    "image": "/Calming_Herbal_Tea_Blend_ebook.webp",
+    "link": "https://www.digistore24.com/redir/466293/pradeep_ga/"
+  },
+
+  {
+    "id": "NR-004",
+    "name": "Natural Loofah",
+    "category": "Natural Remedies",
+    "description": "Natural Shower Loofah Sponge,After use, it can be composted in the garden",
+    "rating": 4.2,
+    "image": "/Natural_Loofah.jpg",
+    "link": "https://www.amazon.com/Natural-Exfoliating-Scrubber-Foaming-Sponges/dp/B09BDY9GQ1?th=1"
+  },
+  {
+    "id": "NR-005",
+    "name": "Natural Dry Body Brush",
+    "category": "Natural Remedies",
+    "description": "Exfoliate skin and improve circulation with this natural bristle body brush.",
+    "rating": 4.0,
+    "image": "/Natural_Dry_Body_Brush.jpg",
+    "link": "https://www.amazon.in/Exfoliating-Lymphatic-Cellulite-Appearance-Improvement/dp/B0F2DVDRPB"
+  }
+]
