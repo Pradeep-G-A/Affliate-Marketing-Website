@@ -1,8 +1,8 @@
-#🌐 Affiliate Marketing Website
+🌐 Affiliate Marketing Website
 
 A modern affiliate marketing website built with React + Vite. This project showcases affiliate products with a clean UI, fast performance, and SEO-friendly structure. It’s designed to help users discover, compare, and purchase products through affiliate links.
 
-#🚀 Features
+🚀 Features
 
 ⚡ Built with React + Vite for ultra-fast development & performance
 
@@ -16,12 +16,12 @@ A modern affiliate marketing website built with React + Vite. This project showc
 
 🎯 Call-to-action buttons for higher conversions
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 
 React – Frontend framework
 
 Vite – Development & build tool
 
-#🔗 Live Demo
+🔗 Live Demo
 
 Click here to view live demo:https://everydayessentialshub.netlify.app/
